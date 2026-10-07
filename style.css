@@ -217,7 +217,6 @@ main {
   color: rgba(255, 253, 253, 0.897);
 }
 
-/* CTA Links */
 .cta-links {
   text-align: center;
   margin-top: 10px;
@@ -233,7 +232,6 @@ main {
   text-decoration: underline;
 }
 
-/* Grid Content (2 Kolom) */
 .flex-list {
   display: flex;
   flex-wrap: wrap;
